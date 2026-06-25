@@ -1,19 +1,19 @@
 <!-- ╔═══════════════════════════════════════════════════════════════╗ -->
-<!--   Only edit needed: Ctrl+H → replace USERNAME with your handle  -->
+<!--   Only edit needed: Ctrl+H → replace DONTHULA NITHISH with your handle  -->
 <!-- ╚═══════════════════════════════════════════════════════════════╝ -->
 
 <div align="center">
 
 <!--  ██████  HERO HEADER — 3-D CYLINDER, ANIMATED BLINK  ██████  -->
 <img
-  src="https://capsule-render.vercel.app/api?type=cylinder&color=0:060d1f,35:0b1f3a,65:060d1f,100:060d1f&height=240&section=header&text=USERNAME&fontSize=78&fontColor=38bdf8&animation=blinking&fontAlignY=54&stroke=0ea5e9&strokeWidth=2&desc=Software%20Engineer%20%E2%80%94%20I%20build%20things%20that%20last&descSize=20&descAlignY=76&descColor=64748b"
+  src="https://capsule-render.vercel.app/api?type=cylinder&color=0:060d1f,35:0b1f3a,65:060d1f,100:060d1f&height=240&section=header&text=DONTHULA NITHISH&fontSize=78&fontColor=38bdf8&animation=blinking&fontAlignY=54&stroke=0ea5e9&strokeWidth=2&desc=Software%20Engineer%20%E2%80%94%20I%20build%20things%20that%20last&descSize=20&descAlignY=76&descColor=64748b"
   width="100%"
   alt="hero"
 />
 
 <!-- typing layer 1 — identity, large, punchy -->
 <img
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=30&duration=2400&pause=800&color=38BDF8&center=true&vCenter=true&width=720&height=68&lines=Hey+%F0%9F%91%8B+I%27m+USERNAME;I+build+systems+that+don%27t+break+at+3+AM+%F0%9F%9B%A1%EF%B8%8F;Open+source+is+my+love+language+%F0%9F%92%99;I+ship+code%2C+not+excuses+%F0%9F%9A%80;I+turn+caffeine+into+working+software+%E2%98%95"
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=30&duration=2400&pause=800&color=38BDF8&center=true&vCenter=true&width=720&height=68&lines=Hey+%F0%9F%91%8B+I%27m+DONTHULA NITHISH;I+build+systems+that+don%27t+break+at+3+AM+%F0%9F%9B%A1%EF%B8%8F;Open+source+is+my+love+language+%F0%9F%92%99;I+ship+code%2C+not+excuses+%F0%9F%9A%80;I+turn+caffeine+into+working+software+%E2%98%95"
   alt="t1"
 />
 
@@ -32,9 +32,9 @@
 <br/>
 
 <!-- ── BADGES — 100% static, never break ── -->
-<img src="https://visitor-badge.laobi.icu/badge?page_id=USERNAME.USERNAME&left_color=0f172a&right_color=0284c7&left_text=%F0%9F%91%81%20Views" alt="views"/>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=DONTHULA NITHISH.DONTHULA NITHISH&left_color=0f172a&right_color=0284c7&left_text=%F0%9F%91%81%20Views" alt="views"/>
 &nbsp;
-<img src="https://img.shields.io/badge/GitHub-USERNAME-38bdf8?style=flat-square&logo=github&logoColor=white&labelColor=0f172a" alt="github"/>
+<img src="https://img.shields.io/badge/GitHub-DONTHULA NITHISH-38bdf8?style=flat-square&logo=github&logoColor=white&labelColor=0f172a" alt="github"/>
 &nbsp;
 <img src="https://img.shields.io/badge/Status-Open%20to%20Work-34d399?style=flat-square&logo=circle&logoColor=34d399&labelColor=0f172a" alt="status"/>
 &nbsp;
@@ -352,14 +352,14 @@ avoid = ["PHP (2003 edition)", "jQuery spaghetti", "undocumented legacy code"]
   ┌──────────────────────────────────────────────────────────┐
   │  Open README.md in any editor                           │
   │  Press  Ctrl + H                                        │
-  │  Find:    USERNAME                                      │
-  │  Replace: your actual GitHub username                   │
+  │  Find:    DONTHULA NITHISH                                      │
+  │  Replace: your actual GitHub DONTHULA NITHISH                   │
   │  Click "Replace All"  →  Save  →  Done. ✅             │
   └──────────────────────────────────────────────────────────┘
 
   STEP 2 — Create your profile repository
   • github.com → New repository
-  • Name it EXACTLY your GitHub username  (e.g. johndoe)
+  • Name it EXACTLY your GitHub DONTHULA NITHISH  (e.g. johndoe)
   • Set to Public
   • Commit this file as  README.md
   • GitHub automatically shows it on your profile ✅
